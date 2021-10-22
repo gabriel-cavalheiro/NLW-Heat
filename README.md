@@ -24,6 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
 - [Sass](https://sass-lang.com/)
