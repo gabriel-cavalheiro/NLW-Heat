@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
+- [Sass](https://sass-lang.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 ## 🚀 Como executar o Back-end
 
