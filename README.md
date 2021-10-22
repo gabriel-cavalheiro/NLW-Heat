@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat - Node.js</h1>
+<h1 align="center">NLW Heat</h1>
 
 <img src="./nlw_react/src/assets/DowhileEnter.JPG" />
 <img src="./nlw_react/src/assets/DowhileLog.JPG">
@@ -18,13 +18,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [ReactJs] (https://pt-br.reactjs.org/)
+- [NodeJs] (https://nodejs.org/en/docs/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Vite] (https://vitejs.dev/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
 
-## 🚀 Como executar
+## 🚀 Como executar o Back-end
 
 > Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
 - Clone o repositório e acesse a pasta;
@@ -34,6 +37,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Inicie o servidor com `yarn dev`;
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+
+## 🚀 Como executar o Front-end
+  
+- Instale as dependências com `yarn`;
+-  Inicie o servidor com `yarn dev`;
+-  A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
 ## 📄 Licença
 
