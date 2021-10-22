@@ -18,10 +18,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactJs] (https://pt-br.reactjs.org/)
-- [NodeJs] (https://nodejs.org/en/docs/)
+- [ReactJs](https://pt-br.reactjs.org/)
+- [NodeJs](https://nodejs.org/en/docs/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Vite] (https://vitejs.dev/)
+- [Vite](https://vitejs.dev/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
